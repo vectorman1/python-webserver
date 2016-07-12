@@ -2,32 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6723296c-de6c-4e59-9128-eec1e304cafe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Python Webserver.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/borislachev.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/classes/Content.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/classes/Logger.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/classes/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/calculate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/requestpath.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/respond.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/returncontent.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/addons/modules/upload.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/files/upload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/access.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/error.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/start.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logs/access.log" afterPath="$PROJECT_DIR$/logs/access.log" />
     </list>
     <ignored path="Python Webserver.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -113,6 +90,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Boris Lachev" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -453,6 +435,14 @@
       <option name="presentableId" value="Default" />
       <updated>1468238938876</updated>
     </task>
+    <task id="LOCAL-00001" summary="Part of initial commit.">
+      <created>1468322353634</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468322353634</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -480,6 +470,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Part of initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Part of initial commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
